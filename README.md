@@ -1,2 +1,2 @@
-# Spider-for-tapbao
-python Spider for tapbao
+# Spider-for-taobao
+python Spider for taobao
